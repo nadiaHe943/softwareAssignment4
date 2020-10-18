@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="J2EE_IMPORT_null">
+		<item value="/Users/daniele/Downloads/struts-2.5-2.2/apps/struts2-portlet.war"/>
+		<item value="/Users/daniele/Downloads/struts-2.5-2.2/apps/struts2-showcase.war"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v7.0 "/>
+		<item value="Apache Tomcat v7.0"/>
+	</list>
+</section>

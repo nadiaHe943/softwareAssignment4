@@ -1,0 +1,17 @@
+127.0.0.1 - - [14/Nov/2017:00:02:09 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:00:02:10 +0100] "GET /TwoStepViewWeb/ HTTP/1.1" 200 331
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:00:02:12 +0100] "GET /TwoStepViewWeb/libraryPages/index.jsp HTTP/1.1" 200 512
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:00:02:13 +0100] "GET /TwoStepViewWeb/BookPageController?submit=generate HTTP/1.1" 200 376
+127.0.0.1 - - [14/Nov/2017:00:06:42 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:00:06:44 +0100] "GET /Struts2Login/ HTTP/1.1" 200 970
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:00:06:51 +0100] "POST /Struts2Login/login.action;jsessionid=5BB8F03E240921C8E820572611CAD3D0 HTTP/1.1" 200 1039
+127.0.0.1 - - [14/Nov/2017:13:18:24 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:13:18:25 +0100] "GET /HelloWorldWeb/ HTTP/1.1" 200 381
+127.0.0.1 - - [14/Nov/2017:14:27:35 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:14:27:35 +0100] "GET /HelloWorldWeb/ HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:14:27:48 +0100] "GET /HelloWorldWeb/mathPages/index.jsp HTTP/1.1" 200 565
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:14:28:06 +0100] "GET /HelloWorldWeb/MathPageController?a=1&b=2&submit=submit HTTP/1.1" 200 373
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:14:28:14 +0100] "GET /HelloWorldWeb/mathPages/index.jsp HTTP/1.1" 200 565
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:14:28:15 +0100] "GET /HelloWorldWeb/index.jsp HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:14:28:16 +0100] "GET /HelloWorldWeb/stringPages/index.jsp HTTP/1.1" 200 500
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:14:28:24 +0100] "GET /HelloWorldWeb/StringPageController?submit=submit HTTP/1.1" 200 343

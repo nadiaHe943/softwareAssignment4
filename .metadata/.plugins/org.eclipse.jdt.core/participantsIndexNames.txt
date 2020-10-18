@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+/Users/denaro/Work/corsi/SE-lugano-2017/11-workspaceControllerApps/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2156018988.index
+/Struts2Login-MANTEGAZZA/src

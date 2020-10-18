@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+/Users/denaro/Work/corsi/SE-lugano/11-workspaceControllerApps/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3341763203.index
+1364162017.index
+3476334894.index
+1404459331.index
+1247892042.index
+2586419068.index
+2555413343.index
+4025099492.index
+673511940.index
+1162957245.index
+2682145880.index

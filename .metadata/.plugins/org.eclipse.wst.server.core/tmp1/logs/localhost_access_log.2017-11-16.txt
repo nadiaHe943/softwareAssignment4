@@ -1,0 +1,6 @@
+127.0.0.1 - - [16/Nov/2017:11:09:13 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [16/Nov/2017:11:09:14 +0100] "GET /Struts2Login/ HTTP/1.1" 200 926
+0:0:0:0:0:0:0:1 - - [16/Nov/2017:11:09:34 +0100] "POST /Struts2Login/login.action HTTP/1.1" 200 1042
+0:0:0:0:0:0:0:1 - - [16/Nov/2017:11:09:38 +0100] "POST /Struts2Login/login.action HTTP/1.1" 200 1042
+0:0:0:0:0:0:0:1 - - [16/Nov/2017:11:10:03 +0100] "POST /Struts2Login/login.action HTTP/1.1" 200 1042
+0:0:0:0:0:0:0:1 - - [16/Nov/2017:11:10:14 +0100] "POST /Struts2Login/login.action HTTP/1.1" 200 178

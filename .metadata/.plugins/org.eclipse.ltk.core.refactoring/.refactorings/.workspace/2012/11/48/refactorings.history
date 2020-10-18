@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Copy of HelloWorldWeb-FC-IF&apos; to &apos;HelloWorldWeb-FC-IF&apos;" description="Rename resource &apos;Copy of HelloWorldWeb-FC-IF&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Copy of HelloWorldWeb-FC-IF" name="HelloWorldWeb-FC-IF" stamp="1353948173735" updateReferences="true"/>
+</session>
